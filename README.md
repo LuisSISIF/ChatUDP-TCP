@@ -30,7 +30,9 @@ Sockets TCP
 Sockets UDP
 Multithreading
 Eclipse IDE
-Estrutura do Projeto
+## Estrutura do Projeto
+
+```
 src/
 │
 ├── chat.api
@@ -47,7 +49,9 @@ src/
 ├── chat.ui
 │   ├── ChatView.java
 │   └── Main.java
-Arquitetura
+```
+
+## Arquitetura
 
 O projeto foi estruturado utilizando separação de responsabilidades:
 
